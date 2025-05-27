@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jacek Wróbel
 
-<!--
-**jacek-wrobel/jacek-wrobel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a neurobiologist specializing in in vivo electrophysiology techniques. My research focuses on the neurophysiological basis of neuropsychiatric diseases, with a particular emphasis on psychotic disorders. During my PhD, my primary research centered on NMDAR-dependent high-frequency oscillations (HFO).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Find me online
+
+-  [ORCID ID](https://orcid.org/0000-0001-5500-973X
+-  [Research Gate](https://www.researchgate.net/profile/Jacek-Wrobel)
+-  [Web of Science Researcher ID](https://www.webofscience.com/wos/author/record/C-7607-2019)
+-  [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=56287734100)
+
+---
+
+_This profile README is a living document — stay tuned for updates._
