@@ -6,7 +6,7 @@ I am a neurobiologist specializing in in vivo electrophysiology techniques. My r
 
 ## 🔗 Find me online
 
--  [ORCID ID](https://orcid.org/0000-0001-5500-973X
+-  [ORCID ID](https://orcid.org/0000-0001-5500-973X)
 -  [Research Gate](https://www.researchgate.net/profile/Jacek-Wrobel)
 -  [Web of Science Researcher ID](https://www.webofscience.com/wos/author/record/C-7607-2019)
 -  [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=56287734100)
